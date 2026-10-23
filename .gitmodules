@@ -6305,3 +6305,6 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
+[submodule "extensions/teal"]
+	path = extensions/teal
+	url = https://github.com/AhmedOsman101/teal-zed-extension
